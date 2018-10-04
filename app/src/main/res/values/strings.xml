@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">print-bluetooth</string>
+    <string name="connect">Connect</string>
+    <string name="change_printer">Change Printer</string>
 </resources>
